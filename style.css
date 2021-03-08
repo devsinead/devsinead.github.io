@@ -165,7 +165,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-image: url(images/profile.png);
+    background-image: url(images/profile.PNG);
   }
   
   .fa-layer-group,
@@ -346,12 +346,12 @@
 
   #card_one{
     background-size:contain;
-    background-image: url(images/uwbiticon.png);
+    background-image: url(images/uwbiticon.PNG);
   }
   
   #card_two{
     background-size:contain;
-    background-image: url(images/gageincicon.png);
+    background-image: url(images/gageincicon.PNG);
   }
   
   #card_three{

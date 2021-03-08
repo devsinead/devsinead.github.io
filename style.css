@@ -165,7 +165,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-image: url(devsinead.github.io/images/profile.png);
+    background-image: url(images/profile.png);
   }
   
   .fa-layer-group,
@@ -346,25 +346,25 @@
   
   #card_one{
     background-size:contain;
-    background-image: url(devsinead.github.io/images/uwb.png);
+    background-image: url(images/uwb.png);
   }
   
   #card_two{
     background-size:contain;
-    background-image: url(devsinead.github.io/images/gage.png);
+    background-image: url(images/gage.png);
   }
   
   #card_three{
     background-size:contain;
-    background-image: url(devsinead.github.io/images/WorldMarketicon.PNG);
+    background-image: url(images/WorldMarketicon.PNG);
   }
   #card_four{
     background-size:contain;
-    background-image: url(devsinead.github.io/images/CircleKicon.jpg);
+    background-image: url(images/CircleKicon.jpg);
   }
   #card_five{
     background-size:contain;
-    background-image: url(devsinead.github.io/images/WorldMarketicon.PNG);
+    background-image: url(images/WorldMarketicon.PNG);
   }
   .services__btn {
     display: flex;

@@ -385,7 +385,7 @@
 
   /*Camerwork*/
   #card_eighteen{
-    background-image: url(images/Camerawork/PhotoProject1.jpg);
+    background-image: url(images/Camerawork/PhotoProjectone.jpg);
   }
   #card_nineteen{
     background-image: url(images/Camerawork/PhotoProject2.jpg);
@@ -544,8 +544,8 @@
   width:900px;
  }
 /*CamerWork*/
-#PhotoProject1{
-  background-image: url(images/Camerawork/PhotoProject1.jpg);
+#PhotoProjectone{
+  background-image: url(images/Camerawork/PhotoProjectone.jpg
   height:650px;
   width:950px;
 }
